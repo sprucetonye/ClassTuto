@@ -1,0 +1,13 @@
+p {
+	font-family: cursive;
+	text-decoration-color: rgb(125, 125, 125);
+}
+
+nav {
+	flex-direction: column-reverse;
+	transform-style: flat;
+}
+
+footer {
+	color: rgb(165, 42, 42);
+}
